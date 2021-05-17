@@ -17,7 +17,7 @@
 Here's some stuff about me:
 
 - 🔭 I’m currently working on [Python based Result Evaluation web app](https://github.com/jay-munjapara/Result-Evaluation).
-- 🌱 I’m currently learning about Financial literacy.
+- 🌱 I’m currently learning about Money i.e financial literacy.
 - 📫 How to reach me: DM me on twitter.
 - ⚡ Fun fact: I can speak 4 languages (English, Hindi, Marathi(little bit) & Gujarati) !
 </p>
