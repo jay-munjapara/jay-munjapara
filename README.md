@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there !<img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" height="40">
 
 *It's me, Jay Munjapara !*
 
