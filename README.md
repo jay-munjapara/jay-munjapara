@@ -7,7 +7,7 @@
 [![Codewars](https://www.codewars.com/users/rishabhrao/badges/micro)](https://www.codewars.com/users/jay_munjapara)
 [![Codeforces](https://cp-logo.vercel.app/codeforces/rishabhrao)](https://codeforces.com/profile/jay_munjapara)
 [![AtCoder](https://cp-logo.vercel.app/atcoder/rishabhrao)](https://atcoder.jp/users/jay_munjapara)
-[![Codechef](https://cp-logo.vercel.app/codechef/rishabhrao)](https://www.codechef.com/users/jay_munjapara)
+[![Codechef](https://cp-logo.vercel.app/codechef/rishabhrao)](https://www.codechef.com/users/munjapara_jay)
 
 
 ## PyCoder | Developer | Competitive Programmer | Business Enthusiast | Shutterbug
