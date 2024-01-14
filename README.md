@@ -12,7 +12,7 @@
 
 ## PyCoder | Developer | Competitive Programmer | Business Enthusiast | Shutterbug
 
-<p>I'm Adaptive in nature. I wanna learn new skills. After learning the skills I want to use it for the welfare of my country <b>INDIA</b>.</p>
+<p>I am adaptive in nature. I want to learn new skills. After acquiring these skills, I aim to use them for the welfare of humankind.</p>
 <p>Apart from that, I'm good at many programming languages out of which <b>Python</b> is what I'm using recently.</p>
 <p>Since life is all about <b>experiences</b>, I want to <b>explore</b> something new daily. So keep learning, keep exploring ^_~ </p>
 <p>Keep Hustling with a <b>spark⚡</b> that's inside <b>YOU</b>.</p> 
