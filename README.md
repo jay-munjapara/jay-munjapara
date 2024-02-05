@@ -1,11 +1,11 @@
-### Hi there ! I'm [Jay Munjapara][website]<img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" height="40">
+### Hi there ! I'm [Jay Rajesh Munjapara][website]<img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" height="40">
 
 <!--*It's me, [Jay Munjapara] [website] !* -->
 
-[![Website](https://img.shields.io/website?label=linktr.ee/jay_munjapara&style=for-the-badge&url=https%3A%2F%2Flinktr.ee/jay_munjapara)](https://linktr.ee/jay_munjapara)
+[![Website](https://img.shields.io/website?label=jay-munjapara.github.io/portfolio/&style=for-the-badge&url=https%3A%2F%2Fjay-munjapara.github.io/portfolio/)](https://jay-munjapara.github.io/portfolio/)
 
+<!--[![Codeforces](https://cp-logo.vercel.app/codeforces/rishabhrao)](https://codeforces.com/profile/jay_munjapara)-->
 [![Codewars](https://www.codewars.com/users/rishabhrao/badges/micro)](https://www.codewars.com/users/jay_munjapara)
-[![Codeforces](https://cp-logo.vercel.app/codeforces/rishabhrao)](https://codeforces.com/profile/jay_munjapara)
 [![AtCoder](https://cp-logo.vercel.app/atcoder/rishabhrao)](https://atcoder.jp/users/jay_munjapara)
 [![Codechef](https://cp-logo.vercel.app/codechef/rishabhrao)](https://www.codechef.com/users/munjapara_jay)
 
@@ -27,7 +27,7 @@
   
 ## Here's some stuff about me:
 
-- 🔭 I’m currently working on [Python based Result Evaluation web app](https://github.com/jay-munjapara/Result-Evaluation).
+- 🔭 I’m currently working on [my Portfolio](https://jay-munjapara.github.io/portfolio/).
 - 🌱 I’m currently learning about Money i.e financial literacy.
 - 📫 How to reach me: DM me on twitter.
 - ⚡ Fun fact: I can speak 4 languages (English, Hindi, Marathi(little bit) & Gujarati) !
@@ -50,7 +50,7 @@
 
 [website]: https://linktr.ee/jay_munjapara
 [linkedin]: https://www.linkedin.com/in/jay-munjapara/
-[email]: mailto:jaymunjapara11@gmail.com
+[email]: mailto:jm2527@njit.edu
 
 <!--
 **jay-munjapara/jay-munjapara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
