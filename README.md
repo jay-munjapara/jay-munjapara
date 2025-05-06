@@ -1,10 +1,11 @@
-### Hi there ! I'm [Jay Rajesh Munjapara][website]<img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" height="40">
+### Hi there! I'm [Jay Rajesh Munjapara][website]<img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" height="40">
 
 <!--*It's me, [Jay Munjapara] [website] !* -->
 
 [![Website](https://img.shields.io/website?label=jay-munjapara.github.io/portfolio/&style=for-the-badge&url=https%3A%2F%2Fjay-munjapara.github.io/portfolio/)](https://jay-munjapara.github.io/portfolio/)
 
 <!--[![Codeforces](https://cp-logo.vercel.app/codeforces/rishabhrao)](https://codeforces.com/profile/jay_munjapara)-->
+&nbsp;![](https://komarev.com/ghpvc/?username=jay-munjapara&color=brightgreen)
 [![Codewars](https://www.codewars.com/users/rishabhrao/badges/micro)](https://www.codewars.com/users/jay_munjapara)
 [![AtCoder](https://cp-logo.vercel.app/atcoder/rishabhrao)](https://atcoder.jp/users/jay_munjapara)
 [![Codechef](https://cp-logo.vercel.app/codechef/rishabhrao)](https://www.codechef.com/users/munjapara_jay)
@@ -12,8 +13,8 @@
 
 ## PyCoder | Developer | Competitive Programmer | Business Enthusiast | Shutterbug
 
-<p>I am adaptive in nature. I want to learn new skills. After acquiring these skills, I aim to use them for the welfare of humankind.</p>
-<p>Apart from that, I'm good at many programming languages out of which <b>Python</b> is what I'm using recently.</p>
+<p>I am adaptive. I want to learn new skills. After acquiring these skills, I aim to use them for the welfare of humankind.</p>
+<p>Apart from that, I'm good at many programming languages, out of which <b>Python</b> is what I'm using recently.</p>
 <p>Since life is all about <b>experiences</b>, I want to <b>explore</b> something new daily. So keep learning, keep exploring ^_~ </p>
 <p>Keep Hustling with a <b>spark⚡</b> that's inside <b>YOU</b>.</p> 
 
@@ -28,16 +29,19 @@
 ## Here's some stuff about me:
 
 - 🔭 I’m currently working on [my Portfolio](https://jay-munjapara.github.io/portfolio/).
-- 🌱 I’m currently learning about Money i.e financial literacy.
+- 🌱 I’m currently learning about Money i.e, financial literacy.
 - 📫 How to reach me: DM me on twitter.
-- ⚡ Fun fact: I can speak 4 languages (English, Hindi, Marathi(little bit) & Gujarati) !
+- ⚡ Fun fact: I can speak 4 languages (English, Hindi, Marathi(a little bit) & Gujarati)!
   
 </p>
 
 
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jay-munjapara&show_icons=true)
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jay-munjapara&show_icons=true&rank_icon=github&locale=en" alt="jay-munjapara" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-munjapara&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+</p>
 
 <br>
 
