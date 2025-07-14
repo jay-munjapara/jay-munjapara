@@ -38,9 +38,22 @@
 
 <br>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jay-munjapara&show_icons=true&rank_icon=github&locale=en" alt="jay-munjapara" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-munjapara&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+## GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jay-munjapara&show_icons=true&rank_icon=github&locale=en" alt="jay-munjapara" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-munjapara&layout=compact&hide_border=true&langs_count=10&show_icons=true&theme=transparent" alt="Languages" />
+</p>
+
+<br>
+
+## LeetCode Stats:
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/jay_munjapara?ext=contest&theme=dark" alt="LeetCode Contest Stats" />
+</p>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/jay_munjapara?ext=heatmap&theme=dark" alt="LeetCode Heatmap Stats" />
 </p>
 
 <br>
