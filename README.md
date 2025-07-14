@@ -49,9 +49,11 @@
 
 ## LeetCode Stats:
 
+<!--
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/jay_munjapara?ext=contest&theme=dark" alt="LeetCode Contest Stats" />
 </p>
+-->
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/jay_munjapara?ext=heatmap&theme=dark" alt="LeetCode Heatmap Stats" />
 </p>
