@@ -6,14 +6,15 @@
 
 <!--[![Codeforces](https://cp-logo.vercel.app/codeforces/rishabhrao)](https://codeforces.com/profile/jay_munjapara)-->
 &nbsp;![](https://komarev.com/ghpvc/?username=jay-munjapara&color=brightgreen)
+[![HackerRank](https://img.shields.io/badge/HackerRank-jaymunjapara-brightgreen?logo=hackerrank)](https://www.hackerrank.com/jaymunjapara)
+[![CodeChef](https://img.shields.io/badge/CodeChef-munjapara__jay-brown?logo=codechef)](https://www.codechef.com/users/munjapara_jay)
+[![Codeforces](https://img.shields.io/badge/Codeforces-jay__munjapara-blue?logo=codeforces)](https://codeforces.com/profile/jay_munjapara)
+[![LeetCode](https://img.shields.io/badge/LeetCode-jay--munjapara-orange?logo=leetcode)](https://leetcode.com/jay-munjapara)
+
+<!--
 [![Codewars](https://www.codewars.com/users/rishabhrao/badges/micro)](https://www.codewars.com/users/jay_munjapara)
 [![AtCoder](https://cp-logo.vercel.app/atcoder/rishabhrao)](https://atcoder.jp/users/jay_munjapara)
-<!--
-[![Codechef](https://cp-logo.vercel.app/codechef/rishabhrao)](https://www.codechef.com/users/munjapara_jay)
-[![LeetCode](https://cp-logo.vercel.app/leetcode/jay-munjapara)](https://leetcode.com/jay-munjapara)
 -->
-
-
 
 ## PyCoder | Developer | Competitive Programmer | Business Enthusiast | Shutterbug
 
