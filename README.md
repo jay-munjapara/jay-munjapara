@@ -8,7 +8,11 @@
 &nbsp;![](https://komarev.com/ghpvc/?username=jay-munjapara&color=brightgreen)
 [![Codewars](https://www.codewars.com/users/rishabhrao/badges/micro)](https://www.codewars.com/users/jay_munjapara)
 [![AtCoder](https://cp-logo.vercel.app/atcoder/rishabhrao)](https://atcoder.jp/users/jay_munjapara)
+<!--
 [![Codechef](https://cp-logo.vercel.app/codechef/rishabhrao)](https://www.codechef.com/users/munjapara_jay)
+[![LeetCode](https://cp-logo.vercel.app/leetcode/jay-munjapara)](https://leetcode.com/jay-munjapara)
+-->
+
 
 
 ## PyCoder | Developer | Competitive Programmer | Business Enthusiast | Shutterbug
