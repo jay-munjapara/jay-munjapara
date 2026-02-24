@@ -98,9 +98,10 @@
 [<img align="left" alt="jaymunjapara11@gmail.com | Email" height="22px" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" />][email]
 
 
-[website]: https://linktr.ee/jay_munjapara
+[website]: https://jay-munjapara.github.io/portfolio/
+<!-- https://linktr.ee/jay_munjapara-->
 [linkedin]: https://www.linkedin.com/in/jay-munjapara/
-[email]: mailto:jm2527@njit.edu
+[email]: mailto:jay.rajesh.munjapara@gmail.com
 
 <!--
 **jay-munjapara/jay-munjapara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
