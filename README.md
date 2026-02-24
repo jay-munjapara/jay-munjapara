@@ -27,8 +27,6 @@
 
 <p><b>Learn ➡ Apply ➡ Share | Repeat🔁</b></p>
 
-<br>
-
 <p>
   
 ## Here's some stuff about me:
@@ -40,9 +38,6 @@
   
 </p>
 
-
-<br>
-
 ## GitHub Stats:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jay-munjapara&theme=transparent)
@@ -50,14 +45,12 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jay-munjapara&theme=transparent)
 
-<br>
-
 ## Languages:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jay-munjapara&theme=transparent)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jay-munjapara&theme=transparent)
 
-<br>
+
 
 <!--
 
@@ -96,7 +89,7 @@
   />
 </div>
 
-<br/>
+
 
 ## Connect with me:
 
