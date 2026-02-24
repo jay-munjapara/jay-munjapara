@@ -45,12 +45,35 @@
 
 ## GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jay-munjapara&show_icons=true&rank_icon=github&locale=en" alt="jay-munjapara" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-munjapara&layout=compact&hide_border=true&langs_count=10&show_icons=true&theme=transparent" alt="Languages" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jay-munjapara&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jay-munjapara&theme=transparent&utcOffset=5.5)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jay-munjapara&theme=transparent)
 
 <br>
+
+## Languages:
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jay-munjapara&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jay-munjapara&theme=transparent)
+
+<br>
+
+<!--
+
+## Streak
+
+![](https://streak-stats.demolab.com?user=jay-munjapara&hide_border=true&background=00000000)
+
+<br>
+
+## Activity
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=jay-munjapara&bg_color=00000000&hide_border=true)
+
+<br>
+
+-->
 
 ## LeetCode Stats:
 
@@ -58,12 +81,22 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/jay_munjapara?ext=contest&theme=dark" alt="LeetCode Contest Stats" />
 </p>
--->
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/jay_munjapara?ext=heatmap&theme=dark" alt="LeetCode Heatmap Stats" />
 </p>
 
-<br>
+-->
+
+<div align="center">
+  <img
+    src="https://leetcard.jacoblin.cool/jay_munjapara?ext=heatmap&theme=dark"
+    alt="LeetCode Heatmap Stats"
+    width="1200"
+  />
+</div>
+
+<br/>
 
 ## Connect with me:
 
